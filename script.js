@@ -36,9 +36,9 @@ const items = [
     { name: "Küresel Uzay Programı", price: 90000000000, image: "images/space-program.jpg" },
 
     
-    { name: "Simit", price: 0.5, image: "images/simit.jpg" },
+    { name: "Simit", price: 1, image: "images/simit.jpg" },
     { name: "Ekmek", price: 1, image: "images/ekmek.jpg" },
-    { name: "Sakız", price: 0.25, image: "images/sakiz.jpg" },
+    { name: "Sakız", price: 1, image: "images/sakiz.jpg" },
     { name: "Hamburger", price: 5, image: "images/hamburger.jpg" },
     { name: "YouTube Premium (1 Ay)", price: 14, image: "images/youtube.jpg" },
     { name: "Spotify Premium (1 Ay)", price: 12, image: "images/spotify.jpg" },
