@@ -534,6 +534,23 @@ footer {
     line-height: 1.5;
     color: #333;
 }
+.privacy-center {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.privacy-center a {
+    color: #9a9a9a;
+    font-size: 13px;
+    text-decoration: none;
+    letter-spacing: 0.4px;
+    transition: color 0.2s ease;
+}
+
+.privacy-center a:hover {
+    color: #555;
+}
+
 
 
 
